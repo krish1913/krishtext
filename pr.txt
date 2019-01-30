@@ -1,0 +1,3 @@
+hi git user 
+now lunch this file to git hub 
+then do clone 
